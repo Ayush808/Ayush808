@@ -21,8 +21,8 @@
 
 👯My other NETWOKS:
                   
-                  Gmail   : <mahajanayush808@gmail.com>
-                  LinkedIn: <http://linkedin.com/in/ayush-mahajan-2904a7144>
+                  Gmail   : mahajanayush808@gmail.com
+                  LinkedIn: http://linkedin.com/in/ayush-mahajan-2904a7144
 
 <!--
 **Ayush808/Ayush808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
