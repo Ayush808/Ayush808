@@ -19,7 +19,7 @@
                   to Backend(node.js and express.js for building RESTAPI(s)).
                 ✨I am a Team Player and ability to quickly learn new technologies.
 
-👯My other networks:
+👯My other NETWOKS:
                   
                   Gmail   : mahajanayush808@gmail.com
                   LinkedIn: http://linkedin.com/in/ayush-mahajan-2904a7144
