@@ -1,4 +1,4 @@
-### Hi Everyone 👋
+### Hi Everyone. I am full stack web developer(MERN)👋
 
 ⚡OBJECTIVE:
 
